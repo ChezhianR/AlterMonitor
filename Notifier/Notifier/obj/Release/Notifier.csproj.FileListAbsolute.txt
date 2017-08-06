@@ -1,0 +1,5 @@
+C:\Users\chezhian_Ravikumar\documents\visual studio 2015\Projects\Notifier\Notifier\bin\Release\Notifier.exe.config
+C:\Users\chezhian_Ravikumar\documents\visual studio 2015\Projects\Notifier\Notifier\bin\Release\Notifier.exe
+C:\Users\chezhian_Ravikumar\documents\visual studio 2015\Projects\Notifier\Notifier\bin\Release\Notifier.pdb
+C:\Users\chezhian_Ravikumar\documents\visual studio 2015\Projects\Notifier\Notifier\obj\Release\Notifier.exe
+C:\Users\chezhian_Ravikumar\documents\visual studio 2015\Projects\Notifier\Notifier\obj\Release\Notifier.pdb
